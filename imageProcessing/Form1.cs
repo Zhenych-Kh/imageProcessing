@@ -60,6 +60,7 @@ namespace imageProcessing
                 {
                     Text = $"Load: {i}%";
                 }));
+
             }
             _bitMaps.Add(bitmap);
         }
